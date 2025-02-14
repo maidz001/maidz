@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-image: url(474497057_1394032152007964_2354659696827456541_n.jpg);
+  background-size: cover;
+}
+div {
+  background-color: darksalmon;
+}
+#div1 {
+  display: flex;
+  width: 300px;
+}
+div div {
+  margin-left: 18vw;
+  text-align: center;
+  width: 150px;
+}
+
+button {
+  background-color: pink;
+  height: 50px;
+  width: 50px;
+}
+h1 {
+}
